@@ -1,0 +1,17 @@
+# LangChain相关依赖
+langchain>=0.1.0
+langchain-community>=0.0.16
+
+# PDF处理
+PyPDF2>=3.0.0
+
+# LLM相关
+openai>=1.0.0
+
+# 工具和配置
+pyyaml>=6.0.0
+
+# 测试相关
+pytest>=7.0.0
+pytest-mock>=3.10.0
+

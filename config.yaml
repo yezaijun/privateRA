@@ -1,0 +1,15 @@
+# LLM配置
+llm:
+  # 选择使用的模型类型：deepseek
+  provider: "deepseek"
+
+  # DeepSeek配置
+  deepseek:
+    api_key: "your_api_key"
+    model: "deepseek-chat"
+    base_url: "https://api.deepseek.com"
+
+# PDF解析配置
+pdf:
+  # 支持的文件格式
+  supported_formats: [".pdf"] 
