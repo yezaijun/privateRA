@@ -187,7 +187,8 @@ privateRA/
 ├── requirements.txt         # 项目依赖
 ├── README.md               # 项目说明
 ├── README_EN.md            # 项目说明（英文）
-└── template.md             # 模板文件
+├── template.md             # 模板文件
+└── LICENSE                 # 许可证
 ```
 
 ### 添加新的LLM支持

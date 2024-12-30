@@ -182,16 +182,12 @@ privateRA/
 │       ├── config.py         # Configuration management
 │       └── output_parser.py  # Output parser
 │
-├── templates/                 # Template directory
-│   └── default.md           # Default output template
-│
-├── testfile/                 # Test file directory
-│
 ├── config.yaml              # Configuration file
 ├── requirements.txt         # Project dependencies
 ├── README.md               # Project documentation
 ├── README_EN.md            # Project documentation (English)
-└── template.md             # Template file
+├── template.md             # Template file
+└── LICENSE                 # License file
 ```
 
 ### Adding New LLM Support
